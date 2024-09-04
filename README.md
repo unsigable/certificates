@@ -1,6 +1,6 @@
 # СЕРТИФИКАТЫ
 *****
-[СЛАЙДЕР - ПРЕЗЕНТАЦИЯ](https://aiverdev.github.io/certificates/)
+[СЛАЙДЕР - ПРЕЗЕНТАЦИЯ](https://unsigable.github.io/certificates/)
 
 ## 1/14 "Как стать программистом" - Нетология (2021)
 
